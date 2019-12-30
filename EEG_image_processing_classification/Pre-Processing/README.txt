@@ -1,0 +1,2 @@
+EEG_Suite.m is the main block of code that performs image processing, PCA for feature selectin, and ML with classification. 
+Matlabs SVM is in the Classify folder and ran separatly from this matlab file.
