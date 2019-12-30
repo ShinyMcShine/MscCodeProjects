@@ -1,0 +1,2 @@
+To execute please open coursework2_starter.m, this is the main script calling the others to perform various feature extractions for ML.
+Adjust the feature variables and classifier testing various methods.
